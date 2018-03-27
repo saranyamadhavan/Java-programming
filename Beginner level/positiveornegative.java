@@ -21,6 +21,9 @@
 			
 			
 		}
+	else
+	{
+		System.out.println("More than 1 lakh");
 		
 	}
 }
